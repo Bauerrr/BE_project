@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Inzynierka</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="min_hand_detection_confidence">Min hand detection confidence</string>
+    <string name="string_0_0">0.0</string>
+    <string name="string_1_0">1.0</string>
+    <string name="min_hand_presence_confidence">Min hand presence confidence</string>
+    <string name="min_tracking_confidence">Min tracking confidence</string>
+    <string name="gestures_help">Closed Fist - play song\nOpen Palm - pause song\nThumb Down - skip song\nThumb Up - previous song\nVictory - accept incoming call\nPointing Up - end incoming call</string>
+</resources>
